@@ -1,7 +1,8 @@
 # Support_ticket_analysis
 
 ## Overview
-This project is focused on analyzing customer support data from 2022 to 2023. The goal is to assess the relationship between customer value and the amount of attention required in terms of number of tickets, understand amount of time required to solve a ticket,  identify trends of level of attention per customer, and provide insights to improve customer support services.
+This project is focused on analyzing customer support data from 2022 to 2023. The goal is to assess the relationship between customer value and the amount of attention required in terms of number of tickets and time required to solve them. Some of the questions to be answered are: 
+Understanding the amount of time required to solve a ticket and identifying trends of level of attention per customer.
 
 ## Dataset Description
 The analysis is based on two primary datasets:
@@ -18,4 +19,4 @@ The key features of the project include:
 - Calculation of the percentage of customers with fewer than 5 tickets.
 
 ## Requirements
-This project uses PySpark to perform queries using SQL language specially handy where working with large databases
+This project uses PySpark to perform queries using SQL language especially handy where working with large databases
