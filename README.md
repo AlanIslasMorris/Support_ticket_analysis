@@ -1,7 +1,7 @@
 # Support_ticket_analysis
 
 ## Overview
-This project is focused on analyzing customer support ticket data from 2022 to 2023. The goal is to assess the relationship between customer value and the amount of attention required in terms of number of tickets, understand amount of time required to solve a ticket,  identify trends of level of attention per customer, and provide insights to improve customer support services.
+This project is focused on analyzing customer support data from 2022 to 2023. The goal is to assess the relationship between customer value and the amount of attention required in terms of number of tickets, understand amount of time required to solve a ticket,  identify trends of level of attention per customer, and provide insights to improve customer support services.
 
 ## Dataset Description
 The analysis is based on two primary datasets:
